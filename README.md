@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <a href="https://twitter.com/PRJBH">
@@ -22,7 +22,6 @@
 </a>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/5YEgnkjeryvwA/giphy.gif?cid=ecf05e47251eca8gfq94tkqlw4e78l7vnkxqmmaaobcyqrde&rid=giphy.gif" />
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on backend in Django and computational algorithms with c++
 - 🌱 I’m currently learning higher-order-python-functionalities,pytorch and backend-frameworks-python 
