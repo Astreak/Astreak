@@ -21,7 +21,7 @@
   <img align="left" alt="PRJ's codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/5YEgnkjeryvwA/giphy.gif?cid=ecf05e47251eca8gfq94tkqlw4e78l7vnkxqmmaaobcyqrde&rid=giphy.gif" />
+<img align="left" alt="GIF" src="https://media2.giphy.com/media/5YEgnkjeryvwA/giphy.gif?cid=ecf05e47251eca8gfq94tkqlw4e78l7vnkxqmmaaobcyqrde&rid=giphy.gif" />
 <br>
 
 
