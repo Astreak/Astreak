@@ -25,7 +25,7 @@
 <br>
 
 
-- 🔭 I’m currently working on backend in Django and computational algorithms with c++
+- 🔭 I’m currently working on backend in Django and computational algorithms in c++
 - 🌱 I’m currently learning higher-order-python-functionalities,pytorch and backend-frameworks-python 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with open source contributions
