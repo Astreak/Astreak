@@ -24,12 +24,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on backend in Django and computational algorithms
-- 🌱 I’m currently learning high order python functionalities,deep learning frameworks-pytorch and backend frameworks in python 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about machine learning,algorithms
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on backend in Django and computational algorithms with c++
+- 🌱 I’m currently learning higher-order-python-functionalities,pytorch and backend-frameworks-python 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with open source contributions
+- 💬 Ask me about machine learning,algorithms,maths
+- 📫 How to reach me: parajbhattacharjee123@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing chess :)
 -->
