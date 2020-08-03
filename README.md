@@ -8,20 +8,20 @@
   <img align="left" alt="PRJ's Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/praj000">
-  <img align="left" alt="PRJ's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="PRJ's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.twitch.tv/astreak_p">
-  <img align="left" alt="PRJ's twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+  <img align="left" alt="PRJ's twitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
 <a href="https://codeforces.com/profile/prj123">
-  <img align="left" alt="PRJ's codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  <img align="left" alt="PRJ's codeforces" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
 <a href="https://www.codechef.com/users/prjbh">
-  <img align="left" alt="PRJ's codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="PRJ's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br>
-<img align="left" alt="GIF" src="https://media2.giphy.com/media/5YEgnkjeryvwA/giphy.gif?cid=ecf05e47251eca8gfq94tkqlw4e78l7vnkxqmmaaobcyqrde&rid=giphy.gif" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/5YEgnkjeryvwA/giphy.gif?cid=ecf05e47251eca8gfq94tkqlw4e78l7vnkxqmmaaobcyqrde&rid=giphy.gif" />
 <br>
 
 
