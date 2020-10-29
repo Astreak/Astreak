@@ -21,12 +21,11 @@
   <img align="left" alt="PRJ's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/5YEgnkjeryvwA/giphy.gif?cid=ecf05e47251eca8gfq94tkqlw4e78l7vnkxqmmaaobcyqrde&rid=giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QJsSlYzuFKDEpTNDyr/giphy.gif" />
 <br>
 
 - 🔭 I’m currently working on backend in Django and computational algorithms in c++
 - 🌱 I’m currently learning higher-order-python-functionalities,pytorch and backend-frameworks-python 
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
