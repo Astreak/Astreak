@@ -24,7 +24,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 <br>
 
-- 🔭 I’m currently working on backend in Django and computational algorithms in c++
+- 🔭 I’m currently working on   Angular,Database management and operating systems 
 - 🌱 I’m currently learning higher-order-python-functionalities,pytorch and backend-frameworks-python 
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
