@@ -21,7 +21,7 @@
   <img align="left" alt="PRJ's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QJsSlYzuFKDEpTNDyr/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 <br>
 
 - 🔭 I’m currently working on backend in Django and computational algorithms in c++
