@@ -24,8 +24,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" />
 <br>
 
-- 🔭 I’m currently working on   Angular,Database management and operating systems 
-- 🌱 I’m currently learning higher-order-python-functionalities,pytorch and backend-frameworks-python 
+- 🔭 I’m currently working on higher-order-python-functionalities,pytorch and backend-frameworks-python    
+- 🌱 I’m currently learning Angular,Database management and operating systems 
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
