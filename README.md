@@ -21,7 +21,7 @@
   <img align="left" alt="PRJ's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" />
+<img height='400' align="right" alt="GIF" src="https://media.giphy.com/media/YS57N6teaevJASvcMA/giphy.gif" />
 <br>
 
 - 🔭 I’m currently working on higher-order-python-functionalities,pytorch and backend-frameworks-python    
