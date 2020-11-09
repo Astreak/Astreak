@@ -30,7 +30,7 @@
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love playing chess :)
+- ⚡ Fun fact: I love playing chess and football(the real one)... :)
 -->
 **Stats :**  
 Languages and Tools
