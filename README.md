@@ -31,7 +31,7 @@
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love playing chess and football(the real one)... :)
+- ⚡ Fun fact: I love playing chess and football:soccer:(the real one)... :)
 -->
 **Stats :**  
 Languages and Tools
@@ -58,5 +58,5 @@ Languages and Tools
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=praj000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "PRJ's github stats" />
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=praj000&layout=compact" />
 
-### Inspired by a Genius :eyes::(https://github.com/prabormukherjee)
+#### Inspired by a Revolutionary Comprehensible and Scornful Genius :eyes::(https://github.com/prabormukherjee)
 
