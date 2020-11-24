@@ -58,5 +58,5 @@ Languages and Tools
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=praj000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "PRJ's github stats" />
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=praj000&layout=compact" />
 
-
+### Inspired by a Genius :eyes::(https://github.com/prabormukherjee)
 
