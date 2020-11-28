@@ -23,7 +23,7 @@
 <br>
 
 <img src="https://profile-counter.glitch.me/praj000/count.svg" />
-<img height='400' align="right" alt="GIF" src="https://media.giphy.com/media/YS57N6teaevJASvcMA/giphy.gif" />
+<img height='269' align="right" alt="GIF" src="https://media.giphy.com/media/YS57N6teaevJASvcMA/giphy.gif" />
 
 - 🔭 I’m currently working on higher-order-python-functionalities,pytorch and backend-frameworks-python    
 - 🌱 I’m currently learning Angular,Database management and operating systems 
