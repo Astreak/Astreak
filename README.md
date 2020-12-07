@@ -45,8 +45,6 @@ Languages and Tools
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat-square&logo=sass&logoColor=ffffff)](https://www.sass.hk/)
-[![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -58,5 +56,4 @@ Languages and Tools
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=praj000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "PRJ's github stats" />
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=praj000&layout=compact" />
 
-#### Inspiriert von dem einzigen erklärbaren Genie, Sir Prabor :eyes::(https://github.com/prabormukherjee)
 
