@@ -25,8 +25,8 @@
 <img src="https://profile-counter.glitch.me/praj000/count.svg" />
 <img height='269' align="right" alt="GIF" src="https://media.giphy.com/media/YS57N6teaevJASvcMA/giphy.gif" />
 
-- 🔭 I’m currently working on higher-order-python-functionalities,pytorch and backend-frameworks-python    
-- 🌱 I’m currently learning Angular,Database management and operating systems 
+- 🔭 I’m currently working on Problem solving and Reinforcement Learning
+- 🌱 I’m currently learning Operating systems,DBMS
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
