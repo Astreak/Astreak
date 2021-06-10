@@ -54,6 +54,6 @@ Languages and Tools
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=praj000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "PRJ's github stats" />
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Astreak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "PRJ's github stats" />
 
 
