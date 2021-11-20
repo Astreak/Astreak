@@ -26,7 +26,7 @@
 <img height='269' align="right" alt="GIF" src="https://media.giphy.com/media/YS57N6teaevJASvcMA/giphy.gif" />
 
 - 🔭 I’m currently working on Problem solving and Optimization
-- 🌱 I’m currently React
+- 🌱 I’m currently learning dbn
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
