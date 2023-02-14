@@ -30,7 +30,7 @@
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: Sir/Master
 - ⚡ Fun fact: I love playing chess and football:soccer:(the real one)... :)
 -->
 <!-- <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Astreak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "PRJ's github stats" />
