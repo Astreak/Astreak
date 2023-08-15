@@ -13,10 +13,6 @@
 <a href="https://www.twitch.tv/astreak_p">
   <img align="left" alt="PRJ's twitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
-<a href="https://codeforces.com/profile/prj123">
-  <img align="left" alt="PRJ's codeforces" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
 <a href="https://www.codechef.com/users/prjbh">
   <img align="left" alt="PRJ's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
@@ -30,7 +26,7 @@
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
 - 📫 How to reach me: parajbhattacharjee123@gmail.com
-- 😄 Pronouns: Sir/Master
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and football:soccer:(the real one)... :)
 -->
 <!-- <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Astreak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "PRJ's github stats" />
