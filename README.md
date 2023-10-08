@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning dbn
 - 🤔 I’m looking for help with open source contributions
 - 💬 Ask me about machine learning,algorithms,maths
-- 📫 How to reach me: parajbhattacharjee123@gmail.com
+- 📫 How to reach me: parajbh1@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and football:soccer:(the real one)... :)
 -->
