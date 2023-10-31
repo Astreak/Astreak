@@ -13,9 +13,6 @@
 <a href="https://www.twitch.tv/astreak_p">
   <img align="left" alt="PRJ's twitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
-<a href="https://www.codechef.com/users/prjbh">
-  <img align="left" alt="PRJ's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 <br>
 
 <!-- <img src="https://profile-counter.glitch.me/praj000/count.svg" /> -->
