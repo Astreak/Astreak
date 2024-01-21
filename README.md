@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/paraj-bhattacharya-042547191/">
   <img align="left" alt="PRJ's Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/praj000">
-  <img align="left" alt="PRJ's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://leetcode.com/BenkoGambit">
+  <img align="left" alt="PRJ's Leetcode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.twitch.tv/astreak_p">
   <img align="left" alt="PRJ's twitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
